@@ -38,7 +38,7 @@
 import axios from "axios";
 
 // Replace with your ReqRes development API key
-const API_KEY = "YOUR_REQRES_API_KEY";
+const API_KEY = "free_user_3MIpW4bT7bocWlstvuuGg0MGEA0";
 
 export default {
   name: "LoginPage",
